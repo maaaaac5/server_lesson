@@ -1,0 +1,123 @@
+    1  exit
+    2  git status
+    3  git log
+    4  cd server_lesson
+    5  ls
+    6  cd /vagrant
+    7  ls
+    8  cd /server_lesson
+    9  cd ../
+   10  cd
+   11  cd /vagrant
+   12  ls
+   13  cd Vagrantfile
+   14  ls
+   15  cd Vagrantfile
+   16  cd /Vagrantfile
+   17  history
+   18  history -300
+   19  cd vagrant
+   20  cd /vagrant
+   21  history
+   22  cd server_lesson
+   23  cd /server_lesson
+   24  ls
+   25  cd
+   26  ls
+   27  cd /
+   28  l
+   29  ;s
+   30  ls
+   31  cd vagrant
+   32  gir clone server_lesson
+   33  git clone server_lesson
+   34  git init
+   35  git clone server_lesson
+   36  git remote https://github.com/maaaaac5/server_lesson.git
+   37  git remote add origin https://github.com/maaaaac5/server_lesson.git
+   38  git clone server_lesson
+   39  git clone https://github.com/maaaaac5/server_lesson.git
+   40  ls
+   41  history
+   42  cd server_lesson
+   43  history
+   44  cd linux_lesson2
+   45  ls
+   46  linux_practice2
+      47  cd linux_practice2
+   48  history
+   49  cd
+   50  cd
+   51  cd /vagrant
+   52  mkdir server_lesson && cd server_lesson
+   53  it init
+   54  git init
+   55  touch first.txt
+   56  mkdir server_lesson/linux_practice/public
+   57  cd /vagrant
+   58  mkdir server_lesson/linux_practice/public
+   59  mkdir -p server_lesson/linux_practice/public
+   60  ls server_lesson server_lesson/linux_practice
+   61  touch server_lesson/linux_practice/public/index.php
+   62  ls server_lesson/linux_practice/public
+   63  cd /vagrant/server_lesson && ls
+   64  cd /vagrant/server_lesson/linux_practice/public
+   65  cp index.php index_bk.php
+   66  ls
+   67  cd /vagrant/server_lesson/linux_practice
+   68  cp -r public tmp
+   69  ls ./ public tmp
+      70  d /vagrant
+   71  mv server_lesson/linux_practice server_lesson/linux_practice1
+   72  cd /vagrant
+   73  mv server_lesson/linux_practice server_lesson/linux_practice1
+   74  mkdir linux_practice2 linux_practice3
+   75  mv ./linux_practice2 ./server_lesson
+   76  ls
+   77  ls /
+   78  cd /vagrant
+   79  ls
+   80  cd Vagrantfile
+   81  cd /vagrant
+   82  cd /vagrant/server_lesson/linux_practice/public
+   83  git log
+   84  git init
+   85  git remote add origin https://github.com/maaaaac5/server_lesson.git
+   86  git clone server_lesson
+   87  git clone https://github.com/maaaaac5/server_lesson.git
+   88  ls
+   89  cd server_lesson
+   90  ls
+   91  cd linux_practice2
+   92  ls
+      93  cat exec_command.log
+   94  cd documents
+   95  ls
+   96  cd server_lesson
+   97  cd ..
+   98  vi README.md
+   99  cat README.md
+  100  git status
+  101  git add README.md
+  102  git commit -m '?~T??~L?~C??~B??~C??~C??~C~H追?~J| '
+  103  git push origin master
+  104  vi README.md
+  105  git status
+  106  git add README.md
+  107  git commit -m '?~T??~L?~C??~B??~C??~C??~C~H追?~J| '
+  108  git push origin master
+  109  vi README.md
+  110  cat README.md
+  111  vi README.md
+  112  cat README.md
+  113  git add README.md
+  114  git commit -m '?~T??~L?~C??~B??~C??~C??~C~H追?~J| '
+  115  git push origin master
+    116  ls
+  117  cd linux_practice2
+  118  ls
+  119  vi .gitignore
+  120  git status
+  121  git add .gitignore
+  122  git commit -m '?~C~U?~B??~B??~C??~@?~K??~A~W?~L~G?~Z'
+  123  git push origin master
